@@ -11,6 +11,8 @@ namespace TestVersion
     {
         public static void Main(string[] args)
         {
+
+
             GitVersion task = new GitVersion();
             task.BuildEngine = new MockBuild();
             task.ToolPath = @"C:\Program Files (x86)\Git\bin";

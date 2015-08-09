@@ -6,3 +6,11 @@ D:\Projects\C#\TestVersion\TestVersion\obj\Debug\TestVersion.exe
 D:\Projects\C#\TestVersion\TestVersion\obj\Debug\TestVersion.pdb
 D:\Projects\C#\TestVersion\TestVersion\bin\Debug\nunit.framework.dll
 D:\Projects\C#\TestVersion\TestVersion\bin\Debug\nunit.framework.xml
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\bin\Debug\TestVersion.exe.config
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\obj\Debug\TestVersion.exe
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\obj\Debug\TestVersion.pdb
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\bin\Debug\TestVersion.exe
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\bin\Debug\TestVersion.pdb
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\bin\Debug\nunit.framework.dll
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\bin\Debug\nunit.framework.xml
+D:\Projects\C#\GitGub\Test\TestProject\TestVersion\obj\Debug\TestVersion.csprojResolveAssemblyReference.cache
